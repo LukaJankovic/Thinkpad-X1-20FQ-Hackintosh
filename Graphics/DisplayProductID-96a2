@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>Thinkpad X1 Screen</string>
+  <key>DisplayProductID</key>
+  <integer>38562</integer>
+  <key>DisplayVendorID</key>
+  <integer>13481</integer>
+  <key>scale-resolutions</key>
+  <array>
+    <data>AAAKAAAABaAAAAABACAAAA==</data>
+    <data>AAAPAAAACHAAAAABACAAAA==</data>
+    <data>AAAHgAAABDgAAAABACAAAA==</data>
+    <data>AAAMgAAABwgAAAABACAAAA==</data>
+    <data>AAAGQAAAA4QAAAABACAAAA==</data>
+  </array>
+</dict>
+</plist>
