@@ -1,0 +1,159 @@
+16:246  9:378  Found BIOS RSDP at F0120
+16:246  0:000  Printing ACPI tables from RSDP F0120 ...
+16:246  0:000   F0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+16:246  0:000    (Xsdt: D7FCF188, Rsdt: D7FCF0C4)
+16:246  0:000    D7FCF188: 'XSDT', 'TP-N1F', Rev: 1, Len: 220
+16:246  0:000    D7FCF0C4: 'RSDT', 'TP-N1F', Rev: 1, Len: 128
+16:246  0:000    Tables in Xsdt: 23
+16:246  0:000    0. D7FF4000: 'FACP', 'TP-N1F', Rev: 5, Len: 244
+16:246  0:000        (Dsdt: D7FDC000, Facs: D7F9A000, XDsdt: D7FDC000, XFacs: 0)
+16:246  0:000        D7FDC000: 'DSDT', 'TP-N1F', Rev: 2, Len: 78207
+16:247  0:001        D7F9A000: 'FACS', Ver: 2, Len: 64
+16:247  0:000    1. D7FFC000: 'TCPA', 'TP-N1F', Rev: 2, Len: 50
+16:247  0:000    2. D7FFB000: 'SSDT', 'TcgTable', Rev: 2, Len: 930
+16:247  0:000    3. D7FB1000: 'UEFI', 'TP-N1F', Rev: 1, Len: 66
+16:247  0:000    4. D7FF6000: 'SSDT', 'SaSsdt', Rev: 2, Len: 19978
+16:247  0:000    5. D7FF5000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+16:247  0:000    6. D7FF3000: 'ECDT', 'TP-N1F', Rev: 1, Len: 82
+16:247  0:000    7. D7FF2000: 'HPET', 'TP-N1F', Rev: 1, Len: 56
+16:247  0:000    8. D7FF1000: 'APIC', 'TP-N1F', Rev: 3, Len: 188
+16:247  0:000    9. D7FF0000: 'MCFG', 'TP-N1F', Rev: 1, Len: 60
+16:247  0:000    10. D7FDA000: 'SSDT', 'SataAhci', Rev: 1, Len: 6354
+16:247  0:000    11. D7FD9000: 'SSDT', 'sensrhub', Rev: 2, Len: 612
+16:247  0:000    12. D7FD8000: 'DBGP', 'TP-N1F', Rev: 1, Len: 52
+16:247  0:000    13. D7FD7000: 'DBG2', 'TP-N1F', Rev: 0, Len: 84
+16:247  0:000    14. D7FD6000: 'BOOT', 'TP-N1F', Rev: 1, Len: 40
+16:247  0:000    15. D7FD5000: 'BATB', 'TP-N1F', Rev: 2, Len: 74
+16:247  0:000    16. D7FD4000: 'SLIC', 'TP-N1F', Rev: 1, Len: 374
+16:247  0:000    17. D7FD3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+16:247  0:000    18. D7FD2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1027
+16:247  0:000    19. D7FD1000: 'MSDM', 'TP-N1F', Rev: 3, Len: 85
+16:247  0:000    20. D7FD0000: 'ASF!', 'TP-N1F', Rev: 32, Len: 165
+16:247  0:000    21. D7FFD000: 'FPDT', 'TP-N1F', Rev: 1, Len: 68
+16:247  0:000    22. D7F98000: 'UEFI', 'TP-N1F', Rev: 1, Len: 318
+16:247  0:000    Tables in Rsdt: 23
+16:247  0:000    0. D7FF4000: 'FACP', 'TP-N1F', Rev: 5, Len: 244
+16:247  0:000        (Dsdt: D7FDC000, Facs: D7F9A000, XDsdt: D7FDC000, XFacs: 0)
+16:247  0:000        D7FDC000: 'DSDT', 'TP-N1F', Rev: 2, Len: 78207
+16:249  0:001        D7F9A000: 'FACS', Ver: 2, Len: 64
+16:249  0:000    1. D7FFC000: 'TCPA', 'TP-N1F', Rev: 2, Len: 50
+16:249  0:000    2. D7FFB000: 'SSDT', 'TcgTable', Rev: 2, Len: 930
+16:249  0:000    3. D7FB1000: 'UEFI', 'TP-N1F', Rev: 1, Len: 66
+16:249  0:000    4. D7FF6000: 'SSDT', 'SaSsdt', Rev: 2, Len: 19978
+16:249  0:000    5. D7FF5000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+16:249  0:000    6. D7FF3000: 'ECDT', 'TP-N1F', Rev: 1, Len: 82
+16:249  0:000    7. D7FF2000: 'HPET', 'TP-N1F', Rev: 1, Len: 56
+16:249  0:000    8. D7FF1000: 'APIC', 'TP-N1F', Rev: 3, Len: 188
+16:249  0:000    9. D7FF0000: 'MCFG', 'TP-N1F', Rev: 1, Len: 60
+16:249  0:000    10. D7FDA000: 'SSDT', 'SataAhci', Rev: 1, Len: 6354
+16:249  0:000    11. D7FD9000: 'SSDT', 'sensrhub', Rev: 2, Len: 612
+16:249  0:000    12. D7FD8000: 'DBGP', 'TP-N1F', Rev: 1, Len: 52
+16:249  0:000    13. D7FD7000: 'DBG2', 'TP-N1F', Rev: 0, Len: 84
+16:249  0:000    14. D7FD6000: 'BOOT', 'TP-N1F', Rev: 1, Len: 40
+16:249  0:000    15. D7FD5000: 'BATB', 'TP-N1F', Rev: 2, Len: 74
+16:249  0:000    16. D7FD4000: 'SLIC', 'TP-N1F', Rev: 1, Len: 374
+16:249  0:000    17. D7FD3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+16:249  0:000    18. D7FD2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1027
+16:249  0:000    19. D7FD1000: 'MSDM', 'TP-N1F', Rev: 3, Len: 85
+16:249  0:000    20. D7FD0000: 'ASF!', 'TP-N1F', Rev: 32, Len: 165
+16:249  0:000    21. D7FFD000: 'FPDT', 'TP-N1F', Rev: 1, Len: 68
+16:249  0:000    22. D7F98000: 'UEFI', 'TP-N1F', Rev: 1, Len: 318
+16:249  0:000  Found UEFI Acpi 2.0 RSDP at D7FFE014
+16:249  0:000  Saving ACPI tables from RSDP D7FFE014 to EFI\CLOVER\ACPI\origin ...
+16:249  0:000   D7FFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+16:258  0:008    (Xsdt: D7FCF188, Rsdt: D7FCF0C4)
+16:258  0:000    D7FCF188: 'XSDT', 'TP-N1F', Rev: 1, Len: 220 -> XSDT.aml
+16:263  0:005    D7FCF0C4: 'RSDT', 'TP-N1F', Rev: 1, Len: 128 -> RSDT.aml
+16:269  0:005    Tables in Xsdt: 23
+16:269  0:000    0. D7FF4000: 'FACP', 'TP-N1F', Rev: 5, Len: 244 -> FACP.aml
+16:274  0:005        (Dsdt: D7FDC000, Facs: D7F9A000, XDsdt: D7FDC000, XFacs: 0)
+16:274  0:000        D7FDC000: 'DSDT', 'TP-N1F', Rev: 2, Len: 78207 -> DSDT.aml
+16:287  0:013        D7F9A000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+16:293  0:005    1. D7FFC000: 'TCPA', 'TP-N1F', Rev: 2, Len: 50 -> TCPA.aml
+16:298  0:005    2. D7FFB000: 'SSDT', 'TcgTable', Rev: 2, Len: 930 -> SSDT-0-TcgTable.aml
+16:304  0:005    3. D7FB1000: 'UEFI', 'TP-N1F', Rev: 1, Len: 66 -> UEFI.aml
+16:309  0:005    4. D7FF6000: 'SSDT', 'SaSsdt', Rev: 2, Len: 19978 -> SSDT-1-SaSsdt.aml
+16:316  0:006    5. D7FF5000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477 -> SSDT-2-PerfTune.aml
+16:322  0:006    6. D7FF3000: 'ECDT', 'TP-N1F', Rev: 1, Len: 82 -> ECDT.aml
+16:327  0:005    7. D7FF2000: 'HPET', 'TP-N1F', Rev: 1, Len: 56 -> HPET.aml
+16:332  0:005    8. D7FF1000: 'APIC', 'TP-N1F', Rev: 3, Len: 188 -> APIC.aml
+16:337  0:005    9. D7FF0000: 'MCFG', 'TP-N1F', Rev: 1, Len: 60 -> MCFG.aml
+16:343  0:005    10. D7FDA000: 'SSDT', 'SataAhci', Rev: 1, Len: 6354 -> SSDT-3-SataAhci.aml
+16:348  0:005    11. D7FD9000: 'SSDT', 'sensrhub', Rev: 2, Len: 612 -> SSDT-4-sensrhub.aml
+16:353  0:005    12. D7FD8000: 'DBGP', 'TP-N1F', Rev: 1, Len: 52 -> DBGP.aml
+16:358  0:005    13. D7FD7000: 'DBG2', 'TP-N1F', Rev: 0, Len: 84 -> DBG2.aml
+16:364  0:005    14. D7FD6000: 'BOOT', 'TP-N1F', Rev: 1, Len: 40 -> BOOT.aml
+16:369  0:005    15. D7FD5000: 'BATB', 'TP-N1F', Rev: 2, Len: 74 -> BATB.aml
+16:375  0:005    16. D7FD4000: 'SLIC', 'TP-N1F', Rev: 1, Len: 374 -> SLIC.aml
+16:380  0:005    17. D7FD3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699 -> SSDT-5-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+16:387  0:006        * D7F4E798: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1807  53 53 44 54 0F 07 00 00 02 48 50 6D 52 65 66 00 Internal length = 1807 -> SSDT-x5_0-Cpu0Ist.aml
+16:393  0:006        * D7F4C618: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 D0 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x5_1-ApIst.aml
+16:399  0:005        * D7F4CC18: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 975  53 53 44 54 CF 03 00 00 02 36 50 6D 52 65 66 00 Internal length = 975 -> SSDT-x5_2-Cpu0Cst.aml
+16:405  0:005        * D7F4DC18: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 EC 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x5_3-ApCst.aml
+16:413  0:007        * D7F4EF18: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 142  53 53 44 54 8E 00 00 00 02 2D 50 6D 52 65 66 00 Internal length = 142 -> SSDT-x5_4-Cpu0Hwp.aml
+16:418  0:005        * D7F4DA98: 'SSDT', 'ApHwp', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 FF 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x5_5-ApHwp.aml
+16:424  0:005        * D7F4DD98: 'SSDT', 'HwpLvt', Rev: 2, Len: 304  53 53 44 54 30 01 00 00 02 87 50 6D 52 65 66 00 Internal length = 304 -> SSDT-x5_6-HwpLvt.aml
+16:429  0:005  
+16:429  0:000    18. D7FD2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1027 -> SSDT-6-CtdpB.aml
+16:434  0:005    19. D7FD1000: 'MSDM', 'TP-N1F', Rev: 3, Len: 85 -> MSDM.aml
+16:440  0:005    20. D7FD0000: 'ASF!', 'TP-N1F', Rev: 32, Len: 165 -> ASF!.aml
+16:445  0:005    21. D7FFD000: 'FPDT', 'TP-N1F', Rev: 1, Len: 68 -> FPDT.aml
+16:451  0:005    22. D7F98000: 'UEFI', 'TP-N1F', Rev: 1, Len: 318 -> UEFI.aml
+16:460  0:009    Tables in Rsdt: 23
+16:460  0:000    0. D7FF4000: 'FACP', 'TP-N1F', Rev: 5, Len: 244
+16:460  0:000        (Dsdt: D7FDC000, Facs: D7F9A000, XDsdt: D7FDC000, XFacs: 0)
+16:460  0:000        D7FDC000: 'DSDT', 'TP-N1F', Rev: 2, Len: 78207
+16:461  0:001        D7F9A000: 'FACS', Ver: 2, Len: 64
+16:461  0:000    1. D7FFC000: 'TCPA', 'TP-N1F', Rev: 2, Len: 50
+16:461  0:000    2. D7FFB000: 'SSDT', 'TcgTable', Rev: 2, Len: 930
+16:461  0:000    3. D7FB1000: 'UEFI', 'TP-N1F', Rev: 1, Len: 66
+16:461  0:000    4. D7FF6000: 'SSDT', 'SaSsdt', Rev: 2, Len: 19978
+16:461  0:000    5. D7FF5000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+16:461  0:000    6. D7FF3000: 'ECDT', 'TP-N1F', Rev: 1, Len: 82
+16:461  0:000    7. D7FF2000: 'HPET', 'TP-N1F', Rev: 1, Len: 56
+16:461  0:000    8. D7FF1000: 'APIC', 'TP-N1F', Rev: 3, Len: 188
+16:461  0:000    9. D7FF0000: 'MCFG', 'TP-N1F', Rev: 1, Len: 60
+16:461  0:000    10. D7FDA000: 'SSDT', 'SataAhci', Rev: 1, Len: 6354
+16:461  0:000    11. D7FD9000: 'SSDT', 'sensrhub', Rev: 2, Len: 612
+16:461  0:000    12. D7FD8000: 'DBGP', 'TP-N1F', Rev: 1, Len: 52
+16:461  0:000    13. D7FD7000: 'DBG2', 'TP-N1F', Rev: 0, Len: 84
+16:461  0:000    14. D7FD6000: 'BOOT', 'TP-N1F', Rev: 1, Len: 40
+16:461  0:000    15. D7FD5000: 'BATB', 'TP-N1F', Rev: 2, Len: 74
+16:461  0:000    16. D7FD4000: 'SLIC', 'TP-N1F', Rev: 1, Len: 374
+16:461  0:000    17. D7FD3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+16:461  0:000    18. D7FD2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1027
+16:461  0:000    19. D7FD1000: 'MSDM', 'TP-N1F', Rev: 3, Len: 85
+16:461  0:000    20. D7FD0000: 'ASF!', 'TP-N1F', Rev: 32, Len: 165
+16:461  0:000    21. D7FFD000: 'FPDT', 'TP-N1F', Rev: 1, Len: 68
+16:461  0:000    22. D7F98000: 'UEFI', 'TP-N1F', Rev: 1, Len: 318
+16:461  0:000  Found UEFI Acpi 1.0 RSDP at D7FFE000
+16:461  0:000  Printing ACPI tables from RSDP D7FFE000 ...
+16:461  0:000   D7FFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+16:461  0:000    (Rsdt: D7FCF000)
+16:461  0:000    D7FCF000: 'RSDT', 'TP-N1F', Rev: 1, Len: 124
+16:461  0:000    Tables in Rsdt: 22
+16:461  0:000    0. D7FF4000: 'FACP', 'TP-N1F', Rev: 5, Len: 244
+16:461  0:000        (Dsdt: D7FDC000, Facs: D7F9A000, XDsdt: D7FDC000, XFacs: 0)
+16:461  0:000        D7FDC000: 'DSDT', 'TP-N1F', Rev: 2, Len: 78207
+16:463  0:001        D7F9A000: 'FACS', Ver: 2, Len: 64
+16:463  0:000    1. D7FFC000: 'TCPA', 'TP-N1F', Rev: 2, Len: 50
+16:463  0:000    2. D7FFB000: 'SSDT', 'TcgTable', Rev: 2, Len: 930
+16:463  0:000    3. D7FB1000: 'UEFI', 'TP-N1F', Rev: 1, Len: 66
+16:463  0:000    4. D7FF6000: 'SSDT', 'SaSsdt', Rev: 2, Len: 19978
+16:463  0:000    5. D7FF5000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+16:463  0:000    6. D7FF3000: 'ECDT', 'TP-N1F', Rev: 1, Len: 82
+16:463  0:000    7. D7FF2000: 'HPET', 'TP-N1F', Rev: 1, Len: 56
+16:463  0:000    8. D7FF1000: 'APIC', 'TP-N1F', Rev: 3, Len: 188
+16:463  0:000    9. D7FF0000: 'MCFG', 'TP-N1F', Rev: 1, Len: 60
+16:463  0:000    10. D7FDA000: 'SSDT', 'SataAhci', Rev: 1, Len: 6354
+16:463  0:000    11. D7FD9000: 'SSDT', 'sensrhub', Rev: 2, Len: 612
+16:463  0:000    12. D7FD8000: 'DBGP', 'TP-N1F', Rev: 1, Len: 52
+16:463  0:000    13. D7FD7000: 'DBG2', 'TP-N1F', Rev: 0, Len: 84
+16:463  0:000    14. D7FD6000: 'BOOT', 'TP-N1F', Rev: 1, Len: 40
+16:463  0:000    15. D7FD5000: 'BATB', 'TP-N1F', Rev: 2, Len: 74
+16:463  0:000    16. D7FD3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+16:463  0:000    17. D7FD2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1027
+16:463  0:000    18. D7FD1000: 'MSDM', 'TP-N1F', Rev: 3, Len: 85
+16:463  0:000    19. D7FD0000: 'ASF!', 'TP-N1F', Rev: 32, Len: 165
+16:463  0:000    20. D7FFD000: 'FPDT', 'TP-N1F', Rev: 1, Len: 68
+16:463  0:000    21. D7F98000: 'UEFI', 'TP-N1F', Rev: 1, Len: 318
