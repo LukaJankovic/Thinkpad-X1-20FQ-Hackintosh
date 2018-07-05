@@ -10,7 +10,7 @@
 
 * [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)
 * [FakePCIID_XHCIMux](https://github.com/RehabMan/OS-X-Fake-PCI-ID)
-* KextPatch in Clover, 10.11:
+* KextPatch in Clover, Mac OS X 10.11:
 
 ```
 <dict>
@@ -27,7 +27,7 @@
 </dict>
 ```
 
-* KextPatch in Clover, 10.13:
+* KextPatch in Clover, macOS 10.13:
 
 ```
 <dict>
