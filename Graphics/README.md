@@ -50,7 +50,7 @@ end;
 
 ## Requirements - HiDPi
 
-Note: I've only had luck with HiDPi over 720p on OS X 10.11. In theory, [CoreDisplayFixup](https://github.com/PMheart/CoreDisplayFixup) *should* fix it, but as of now, it doesn't.
+Note: I've only had luck with HiDPi over 720p on OS X 10.11. In theory, [CoreDisplayFixup](https://github.com/PMheart/CoreDisplayFixup) *should* remove the limitations preventing 2x scaling at higher resolutions on 10.12+, but as of now, it doesn't.
 
 - Enable HiDPi using ```sudo defaults write /Library/Preferences/com.apple.windowserver.plist DisplayResolutionEnabled -bool true```
 - If you have the same DisplayVendorID(34a9) and DisplayProductID(96a2) as me you can use the display override file I've provided here (1600x900 HiDPi, 1920x1080 HiDPi)
