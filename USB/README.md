@@ -1,10 +1,16 @@
 # USB
 
+Enables:
+
+* Bluetooth on Broadcom WiFi cards
+* Webcam
+* (If you're lucky) Touch and wacom support
+
 ## Tested on
 
 - [X] 10.11
 - [X] 10.13
-- [ ] 10.14
+- [X] 10.14
 
 ## Requirements
 
@@ -73,6 +79,20 @@
 	<key>Replace</key>
 	<data>
 	RUgwMg==
+	</data>
+</dict>
+<dict>
+	<key>Comment</key>
+	<string>change XHCI to XHC</string>
+	<key>Disabled</key>
+	<false/>
+	<key>Find</key>
+	<data>
+	WEhDSQ==
+	</data>
+	<key>Replace</key>
+	<data>
+	WEhDXw==
 	</data>
 </dict>
 ```
