@@ -35,7 +35,7 @@
 
 ## Requirements - Brightness
 - SSDT-PNLF.aml needed for brightness control, credit [Rehabman](https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/)
-- For brightness keys I wrote this DSDT patch (With the help of [ACPIDebug](https://github.com/RehabMan/OS-X-ACPI-Debug).Only works if brightness keys call _Q14 and _Q15. More info [here](https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659/)):
+- For brightness keys I wrote this DSDT patch (With the help of [ACPIDebug](https://github.com/RehabMan/OS-X-ACPI-Debug). Only works if brightness keys call _Q14 and _Q15. More info [here](https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659/)):
 
 ```
 into method label _Q15 replace_content
@@ -46,5 +46,4 @@ into method label _Q14 replace_content
 begin
 	Notify(\_SB.PCI0.LPC.KBD, 0x0406)\n
 end;
-```
-- 
+``` 
