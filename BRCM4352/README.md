@@ -12,5 +12,5 @@
 
 ## Requirements, Bluetooth
 
-* Working [USB](https://github.com/LukaJankovic/...)
+* Working [USB](https://github.com/LukaJankovic/Thinkpad-X1-20FQ-Hackintosh/tree/master/USB)
 * [BrcmFirmwareData + BrcmPatchRAM2](https://github.com/RehabMan/OS-X-BrcmPatchRAM)
