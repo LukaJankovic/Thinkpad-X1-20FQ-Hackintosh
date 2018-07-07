@@ -13,7 +13,7 @@ Contains information for running 10.11, 10.13 and 10.14 on the X1. Primary focus
 * Media keys
 * Brightness + brightness keys
 * Sound
-* HDMI/DP out + sound
+* HDMI/DP video + sound
 * WiFi and Bt if card is swapped
 * HiDPi (Higher than 2x 768p only achieved on 10.11)
 
