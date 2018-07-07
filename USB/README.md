@@ -15,7 +15,7 @@ Enables:
 ## Requirements
 
 * [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)
-* [FakePCIID_XHCIMux](https://github.com/RehabMan/OS-X-Fake-PCI-ID)
+* [FakePCIID + FakePCIID_XHCIMux](https://github.com/RehabMan/OS-X-Fake-PCI-ID)
 * KextPatch in Clover, Mac OS X 10.11:
 
 ```
