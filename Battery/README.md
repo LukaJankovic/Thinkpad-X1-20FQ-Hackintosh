@@ -8,7 +8,7 @@
 
 ## Requirements
 
-* Patches from [Rehabman's laptop patch repo](http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master):
+* Patches from [Rehabman's laptop patch repo](https://github.com/RehabMan/Laptop-DSDT-Patch):
 	* Fix Mutex with non-zero SyncLevel
 	* [bat] Lenovo X230i
 * [ACPIBatteryManager](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver)
