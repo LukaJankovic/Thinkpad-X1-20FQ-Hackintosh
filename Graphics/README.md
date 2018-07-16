@@ -33,6 +33,30 @@
 </dict>
 ```
 
+- KextPatch in Clover, *only* macOS 10.14:
+```
+<dict>
+	<key>Comment</key>
+	<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.14 Credits (Sniki)</string>
+	<key>Disabled</key>
+	<false/>
+	<key>Find</key>
+	<data>
+	dkBI/wU=
+	</data>
+	<key>InfoPlistPatch</key>
+	<false/>
+	<key>MatchOS</key>
+	<string>10.14.x</string>
+	<key>Name</key>
+	<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
+	<key>Replace</key>
+	<data>
+	60BI/wU=
+	</data>
+</dict>
+```
+
 - Buggy graphics (usually occurs on 10.11) can be fixed by choosing the sRGB color scheme in Display settings
 
 ## Requirements - Brightness

@@ -27,4 +27,4 @@ Contains information for running 10.11, 10.13 and 10.14 on the X1. Primary focus
 
 * No HiDPi (minor)
 * If FakePCIID is used for HDMI audio, gfx won't work when booting without an external display connected
-* Reboot doesn't work. full shutdown required
+* Reboot doesn't work. full shutdown required (Reboot works on 10.14)
