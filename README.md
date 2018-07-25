@@ -9,11 +9,10 @@ Contains information for running 10.11, (10.13) and 10.14 on the X1. I will not 
 * Battery status
 * Touchpad with gestures
 * Trackpoint
-* Keyboard with keyboard brightness
-* Media keys
+* Keyboard
 * Brightness + brightness keys
-* Sound
-* HDMI/DP video + sound
+* Sound + volume keys
+* HDMI/DP video + (sound)
 * WiFi and Bt if card is swapped
 * HiDPi
 * Sleep
