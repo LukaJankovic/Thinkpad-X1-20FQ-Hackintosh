@@ -1,8 +1,6 @@
 # Thinkpad X1 Yoga / Carbon (20FQ model) hackintosh
 
-Contains information for running 10.11, (10.13) and 10.14 on the X1. Primary focus is on 10.11 and 10.13, due to 10.14 not being stable at the moment. It does, however, work for the most part.
-
-I will not continue providing support for 10.11 and 10.13 as I find 10.14 is stable enough now. I will leave the config for 10.11 here but I don't have one for 10.13 any longer.
+Contains information for running 10.11, (10.13) and 10.14 on the X1. I will not continue providing support for 10.11 and 10.13 as I find 10.14 is stable enough now. I will leave the config for 10.11 here but I don't have one for 10.13 any longer.
 
 ## What works
 
