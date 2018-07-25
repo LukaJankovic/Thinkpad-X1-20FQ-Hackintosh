@@ -1,0 +1,27 @@
+===================================
+Welcome to DarwinDumper 3.0.4
+Wed Jul 18 03:53:31 CEST 2018
+System Version: macOS 10.14 (18A336e)
+Security Integrity Configuration: 0x00000067
+===================================
+Initialisation information
+===================================
+*/Users/luka/Library/Preferences/org.tom.DarwinDumper not found.
+*Save path - Default: Will use /private/var/folders/xc/stq2_yss1qs36s1n1fcghg1h0000gn/T/AppTranslocation/8B2EEE74-DF48-416B-B35A-4B6F373F7F74/d
+*Symlink check: Symlink has not been created.
+*User Chose: Archive Zip
+*User Chose: EDID
+===================================
+000s : +Started process DumpFilesEdid: pid 1092
+          Found 1 EDID in ioreg
+          Check: /EDID/EDID.txt created.
+          Check: /EDID/EDID.bin created.
+          Checking Clover bootlog for EDID data
+          No EDID data found under EdidDiscovered in bootlog
+001s : -Completed DumpFilesEdid
+===================================
+Dumps complete after: 1 seconds
+===================================
+===================================
+DarwinDumper Completed in: 1 seconds
+===================================
