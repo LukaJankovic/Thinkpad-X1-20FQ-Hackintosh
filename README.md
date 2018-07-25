@@ -4,7 +4,8 @@ Contains information for running 10.11, (10.13) and 10.14 on the X1. I will not 
 
 ## What works
 
-* Booting
+* Boot
+* Shut Down (No reboot)
 * QE/CI
 * Battery status
 * Touchpad with gestures
@@ -19,6 +20,7 @@ Contains information for running 10.11, (10.13) and 10.14 on the X1. I will not 
 
 ## What doesn't
 
+* Reboot
 * Sleep on lid
 * Keyboard doesn't work if sleeping for a long time
 * Random if Bluetooth, touch works.
