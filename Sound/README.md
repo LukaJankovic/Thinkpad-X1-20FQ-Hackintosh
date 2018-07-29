@@ -2,14 +2,13 @@
 
 ## Tested on
 
-- [X] 10.11
+- [] 10.11
 - [X] 10.13
 - [X] 10.14
 
 ## Requirements - 10.11
 
-* Patched AppleHDA Avaliable here
-* Audio inject 3 in clover config -> Devices
+* Patched AppleHDA (CX20753/4)
 
 ## Requirements - 10.12+
 
