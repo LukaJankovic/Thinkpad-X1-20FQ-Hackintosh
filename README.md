@@ -20,12 +20,19 @@ Contains information for running 10.11, (10.13) and 10.14 on the X1. I will not 
 
 ## What doesn't
 
-* Reboot
+* Reboot (Get's stuck on ACPI for 20 min before booting)
 * Sleep on lid
 * Keyboard doesn't work if sleeping for a long time
-* Random if Bluetooth, touch works.
+* Random if Bluetooth, touch works. (Maybe more consistent if some USB devices are disabled in BIOS)
 
 ## Other notes
 
 * Fan runs on constant high speed after sleep
 * Battery life isn't great
+
+## Updates
+
+### 7 Aug 2018
+
+* HDMI/DP Audio seems to work fine with the same setup after updating to Mojave Beta 6
+* Because there's no port limit removal patch for Mojave I've disabled some USB devices in BIOS (i.e. WWAN) for more consistend USB avaliability
