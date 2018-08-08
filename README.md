@@ -20,17 +20,19 @@ Contains information for running 10.11, (10.13) and 10.14 on the X1. I will not 
 
 ## What doesn't
 
-* Reboot (Get's stuck on ACPI for 20 min before booting)
-* Sleep on lid
-* Keyboard doesn't work if sleeping for a long time
+* Keyboard doesn't work after sleep
 * Random if Bluetooth, touch works. (Maybe more consistent if some USB devices are disabled in BIOS)
 
 ## Other notes
 
-* Fan runs on constant high speed after sleep
 * Battery life isn't great
 
 ## Updates
+
+### 8 Aug 2018
+
+* I recreated my DSDT and I no longer have the reboot issue! yay!
+* Also suddenly sleep on lid works, but kbd doesn't
 
 ### 7 Aug 2018
 
